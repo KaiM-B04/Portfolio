@@ -1,0 +1,30 @@
+nav {
+  display: inherit;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-height: 60px;
+  width: 100vw;
+  background: #0b171b;
+  position: fixed;
+}
+
+.logo-items {
+  display: inherit;
+  flex-direction: row;
+  justify-content: space-around;
+  min-width: 230px;
+}
+
+.logo {
+  max-height: 50px;
+  max-width: 50px;
+}
+
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 30rem;
+  padding: 10px;
+}

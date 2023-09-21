@@ -1,0 +1,17 @@
+.description {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.desc-text {
+  font-weight: 100;
+  font-size: 28px;
+  color: #dfeded;
+}
+
+.dud {
+  color: #71c3b0;
+}
