@@ -149,7 +149,7 @@ section {
 
 .text {
   flex-direction: column;
-  max-width: 10rem;
+  max-width: 20rem;
   padding: 5px;
 }
 
