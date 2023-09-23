@@ -57,7 +57,7 @@ class TextScramble {
 }
 
 // ——————————————————————————————————————————————————
-// Example
+// Scrambler
 // ——————————————————————————————————————————————————
 
 const phrases = ["Koder", "Front-end Developer", "Fritids forfatter", "Gamer"];
