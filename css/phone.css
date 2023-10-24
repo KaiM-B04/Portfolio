@@ -1,0 +1,6 @@
+@media(orientation:portait) {
+  .hero {
+    flex: 100%;
+    width: 100%;
+  }
+}
