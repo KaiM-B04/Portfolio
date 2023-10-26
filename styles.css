@@ -1,5 +1,5 @@
 :root {
-  background: url(images/raphael-lopes-bOvvgayPCyI-unsplash.jpg) fixed center
+  background: url(images/raphael-lopes-tiles.webp) fixed center
     no-repeat;
   background-size: cover;
   flex-wrap: wrap;
@@ -50,18 +50,13 @@ nav {
   flex-wrap: wrap;
 }
 
-.logo-items {
+.logo {
   display: inherit;
   flex-direction: row;
   justify-content: space-between;
   max-width: 300px;
   gap: 10px;
   margin-left: 10px;
-}
-
-.logo {
-  max-height: 50px;
-  max-width: 50px;
 }
 
 .nav-items {
